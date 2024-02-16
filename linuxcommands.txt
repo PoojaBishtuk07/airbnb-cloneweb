@@ -1,0 +1,17 @@
+1) cd folder name/sub_folder -> for changing directory
+2) cd .. -> for going to previous directory
+3) cd ~ -> to going to root directory 
+4)ls -> list  all the files which is inside the folder
+5) ls -a -> showing all hidden files 
+6) touch filename.textname ->for creating empty file.
+7)cat ->for viewing the content inside the file.
+VIM EDITOR: 
+for opening file-> vi filename(if doesnt exist it will be created after the cmd)
+for writing inside file-> press i and you will enter in insert mode.
+for quiting the editor -> press escape then :q.
+for saving the file -> press escape then : w then q.
+for deleting the file-> rm filename.
+for making the folder -> mkdir foldername.
+for deleting the folder-> rmdir foldername.
+
+

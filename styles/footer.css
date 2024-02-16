@@ -1,0 +1,111 @@
+.main-footer {
+  padding: 1rem;
+  background-color: rgba(250, 243, 243, 0.753);
+}
+.footer-heading {
+  font-weight: 900;
+  padding: 1rem 1rem;
+  font-size: 20px;
+}
+.footer-heading2 {
+  width: 100%;
+  padding: 1rem;
+}
+.footer-heading2 button {
+  padding: 6px;
+  font-size: 15px;
+  border: none;
+  color: gray;
+  /* gap: 3rem; */
+  background-color: rgba(250, 243, 243, 0.753);
+}
+.Things-to-do-footer2 {
+  padding: 1rem;
+  width: 100%;
+  border-top: 3px solid rgb(222, 222, 222);
+}
+
+.row-address {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+}
+.main-address1 {
+  width: 30%;
+  /* height: auto; */
+  font-weight: 800;
+  list-style: none;
+  padding: 0.2rem 0.1rem;
+}
+.add2 {
+  color: gray;
+  font-size: 13px;
+}
+.third-footer {
+  width: 100%;
+  height: 200px;
+  margin: 1px 3px 1px 3px;
+  padding: 0rem 2rem;
+  border-top: 3px solid rgb(222, 222, 222);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.support-footer-1 {
+  list-style: none;
+  width: 33.3%;
+
+  /* margin: 5px 5px 5px 5px; */
+  padding: 2rem;
+}
+
+.first-support {
+  font-weight: 700;
+  list-style: none;
+}
+.link-of-support a {
+  color: grey;
+  font-size: 13px;
+}
+.fourth-division {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1.5rem;
+}
+.airbnb-Inc {
+  font-size: 13px;
+  width: 70%;
+  display: flex;
+  align-items: center;
+}
+.airbnb-Inc svg {
+  width: 20px;
+}
+.copyright-block {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+.otherlinks-block {
+  display: flex;
+  align-items: center;
+}
+.language-icon {
+  width: 30%;
+  /* height: 100%; */
+  display: flex;
+  align-items: center;
+}
+.lang-logo {
+  border: none;
+  background-color: rgba(250, 243, 243, 0.753);
+}
+.lang-logo svg {
+  width: 20%;
+  height: 50%;
+  align-items: center;
+}
